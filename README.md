@@ -15,6 +15,8 @@ You will need to install these custom JAR files on your machine:
 
 ### Usage
 
-Please see the Api document to see usages.
+Please see the Api document below to see usages;
+		* https://documenter.getpostman.com/view/16220775/VUxPw7nw
+
 
 
